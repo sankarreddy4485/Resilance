@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Resillence.iml" filepath="$PROJECT_DIR$/.idea/Resillence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ServiceA/ServiceA.iml" filepath="$PROJECT_DIR$/ServiceA/ServiceA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ServiceB/ServiceB.iml" filepath="$PROJECT_DIR$/ServiceB/ServiceB.iml" />
+    </modules>
+  </component>
+</project>
